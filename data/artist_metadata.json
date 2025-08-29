@@ -1,467 +1,5 @@
 {
-  "ac9a487a-d9d2-4f27-bb23-0f4686488345": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1982-09-27",
-    "note": ""
-  },
-  "f0bec136-82e8-4fcb-8172-421d9c542d09": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1955-06-23",
-    "note": ""
-  },
-  "9c5869a0-c8dc-45bb-83b1-c9a37f237cb2": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1997-08-30",
-    "note": ""
-  },
-  "248ead7d-8058-4e0c-b334-fde70c036f8d": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1963-03-04",
-    "note": ""
-  },
-  "78a4d3e2-5f12-48f6-b929-223f8926a50f": {
-    "type": "solista",
-    "country": null,
-    "debut": null,
-    "note": "member of Das EFX"
-  },
-  "bc1b5c95-e6d6-46b5-957a-5e8908b02c1e": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1974-07-11",
-    "note": "US rapper"
-  },
-  "7c679635-a892-496b-82e7-84abe3eb5739": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1972-10-08",
-    "note": ""
-  },
-  "14c7b043-940e-4f71-8c57-2f4d76db53cc": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1968-06-21",
-    "note": ""
-  },
-  "1cc9d454-9ee8-4d29-bc8e-c4190cf352f6": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1986-05-06",
-    "note": "Dead Sara and Linkin Park singer"
-  },
-  "b777a711-02c9-4f2f-99a2-e40fd6ca0577": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1996-08",
-    "note": "uk rapper"
-  },
-  "f1dd0051-5578-45a7-a733-03113626407f": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1979-01-20",
-    "note": ""
-  },
-  "4c45495f-b9f3-4d03-9fac-d44c8a77f5de": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1962-11-18",
-    "note": ""
-  },
-  "1a514796-a056-4b62-b54e-363f6fa39ce5": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1981-07-07",
-    "note": ""
-  },
-  "c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1973-03-19",
-    "note": ""
-  },
-  "bb4823bc-16a6-4586-b16b-ae130a54ce20": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1988-02-17",
-    "note": ""
-  },
-  "82e454e2-38ee-4e69-89a6-cc65167753d1": {
-    "type": "grupo",
-    "country": "GB",
-    "debut": "2003",
-    "note": ""
-  },
-  "f6580b26-77f7-4a7b-8513-6db0476e8f21": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1951-06-09",
-    "note": "American score composer"
-  },
-  "cc0b7089-c08d-4c10-b6b0-873582c17fd6": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1994",
-    "note": ""
-  },
-  "e61400d1-9434-4abc-ac7a-4f1dad60cfc7": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1973-06-20",
-    "note": ""
-  },
-  "11f66ca4-02d9-429e-a117-892a0af8fa6a": {
-    "type": "solista",
-    "country": null,
-    "debut": null,
-    "note": "bass guitarist of Evanescence"
-  },
-  "777038ba-d2b5-41ab-a6c5-57a7e97abdf1": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1964-10-23",
-    "note": ""
-  },
-  "b95ce3ff-3d05-4e87-9e01-c97b66af13d4": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1972-10-17",
-    "note": "US rapper"
-  },
-  "8823bbc2-9a2f-44b3-9983-29f6f0da84d6": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1970-08-03",
-    "note": "United States musician, Deftones guitarist"
-  },
-  "f30deb9d-bdba-470d-9032-f30037cab664": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "2004",
-    "note": ""
-  },
-  "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1983-06",
-    "note": ""
-  },
-  "b6408ac8-018b-4f5e-b0e7-9a9ab24b7160": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1968-11-04",
-    "note": "guitarist of Evanescence"
-  },
-  "b0f58ed1-bc2d-4f28-828d-dcad36d11872": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1970-06-19",
-    "note": ""
-  },
-  "e0fb8111-2fc6-4ca9-9743-66d499f5e5c8": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": ""
-  },
-  "51130579-0d81-4206-a74f-82f0ffc63b3f": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1984-11-18",
-    "note": "guitarist for Avenged Sevenfold"
-  },
-  "18511320-ff94-495e-8a48-96be8641caf8": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1974-05-16",
-    "note": "American singer and rapper"
-  },
-  "2dc7a305-7a8c-4fcc-add4-5e9def0a9a0d": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1962-10-16",
-    "note": "US bassist"
-  },
-  "24e1b53c-3085-4581-8472-0b0088d2508c": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1999",
-    "note": "American metal band"
-  },
-  "68c34082-c1d5-4399-af9b-3921ca0a6a1f": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1963-08-03",
-    "note": ""
-  },
-  "56cfe6aa-b464-43d2-bec7-8ec52f313e7d": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1999",
-    "note": ""
-  },
-  "3b49abe4-6b0e-47f8-a8db-1bdc538f6ca7": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1986-12-26",
-    "note": "songwriter/producer Colin Cunningham"
-  },
-  "ea05652d-fe86-479e-9225-8d3b540902b6": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1979-04-27",
-    "note": "bass guitarist"
-  },
-  "250c291f-f7ea-4064-a8ff-d9aeb4bc3124": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1974-07-02",
-    "note": ""
-  },
-  "92caf313-a918-472d-9feb-50ac01e910d0": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1974-09-17",
-    "note": "Filipino-American DJ and producer"
-  },
-  "960eb93f-e73c-4df8-864d-08a06c2dcc11": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1966-03-18",
-    "note": ""
-  },
-  "9a458130-4e20-4f29-aaee-99784f29c7f5": {
-    "type": "solista",
-    "country": "CA",
-    "debut": "1980-03-21",
-    "note": ""
-  },
-  "4757df70-6c3e-46b8-99c0-a68644595c9a": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1993-11-13",
-    "note": ""
-  },
-  "a05add38-ccf0-4e27-a701-d4a09079682e": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1991",
-    "note": ""
-  },
-  "0d00b498-512d-4a4d-9234-a4d710f37e6d": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1980-01-22",
-    "note": "American guitarist and producer"
-  },
-  "8c32bb01-58a3-453b-8050-8c0620edb0e5": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1990",
-    "note": ""
-  },
-  "092476a6-948e-4122-97d0-5883d45d3847": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1965-02-16",
-    "note": "drummer, co-founder of thrash metal band Slayer"
-  },
-  "4072139a-699c-4011-9bcc-baae6f959390": {
-    "type": "solista",
-    "country": "FR",
-    "debut": "1981-02-03",
-    "note": "French electro artist"
-  },
-  "f376828a-b438-4fda-bb2e-dcd5fbe81f83": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1958-09-22",
-    "note": ""
-  },
-  "a0d47559-6ffc-464a-a4d6-30777e5c76f7": {
-    "type": "solista",
-    "country": "FR",
-    "debut": null,
-    "note": ""
-  },
-  "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1971-01-17",
-    "note": "American singer/rapper"
-  },
-  "14ed9dea-1bb0-4743-ba32-39674a71da89": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1946-12-29",
-    "note": ""
-  },
-  "860b2707-6153-4e3a-aa57-74d2b42c55b5": {
-    "type": "grupo",
-    "country": "FR",
-    "debut": "2003",
-    "note": "French electro house, Gaspard Augé & Xavier de Rosnay"
-  },
-  "24a43e36-0435-4f04-ae9a-d5d73e52d278": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1986-04-17",
-    "note": ""
-  },
-  "f89c1c00-fdcb-4ccb-bd8d-f9c642b27ee3": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1973-07-15",
-    "note": ""
-  },
-  "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1986-09-21",
-    "note": ""
-  },
-  "40b0dfb0-d7e7-4a92-b0fa-12ed9af54993": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1963-12-31",
-    "note": ""
-  },
-  "15a5032b-70f2-4c00-bab9-5072b6fbba02": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1951-12-04",
-    "note": ""
-  },
-  "ff0a489b-7e25-48de-a879-169db7b936df": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1981-07-31",
-    "note": ""
-  },
-  "03f93de6-6d62-4710-bcc7-9b3d7c3d95f5": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1972-07-22",
-    "note": ""
-  },
-  "294c31d1-6674-431d-8519-8dc398ee549c": {
-    "type": "grupo",
-    "country": null,
-    "debut": null,
-    "note": ""
-  },
-  "5f6ab597-f57a-40da-be9e-adad48708203": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1965-02-18",
-    "note": "Andre Young, rap producer"
-  },
-  "7ee89158-3446-4044-bb88-0dcc4d4cd6c0": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1981-12-13",
-    "note": "singer and keyboardist of Evanescence"
-  },
-  "f5dfa020-ad69-41cd-b3d4-fd7af0414e94": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1987-09-08",
-    "note": "US rapper"
-  },
-  "a668565b-41b8-44a8-9d5c-8e609dbf69fc": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1997-08-23",
-    "note": "US rapper"
-  },
-  "bd089811-afc0-49c8-99c4-d6c7d95a62cc": {
-    "type": "grupo",
-    "country": null,
-    "debut": "2006-10-01",
-    "note": "Los Angeles alternative rock/hiphop band"
-  },
-  "76716b81-e361-427e-a931-19373388387d": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1975-08-27",
-    "note": "US rapper"
-  },
-  "5b884504-d421-4c30-ace7-7ea0045c21bf": {
-    "type": "solista",
-    "country": null,
-    "debut": null,
-    "note": "Metal guitarist/producer"
-  },
-  "6f460841-9917-451d-838d-0d8bb19c3ea8": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1967-10-07",
-    "note": ""
-  },
-  "03f3deb7-0419-4bf9-a1e7-511946385717": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1977-10-25",
-    "note": "hip hop DJ & producer"
-  },
-  "adcc6c98-0bf1-4d54-84aa-2249cf5e46bf": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1948-04-15",
-    "note": "American score composer"
-  },
-  "8006f1d0-8851-46d8-a928-085c686b29b9": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1978-12-05",
-    "note": "American record producer & songwriter"
-  },
-  "02cb5b07-f0ff-4e82-a1c7-a00a541359fc": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": ""
-  },
-  "382f1005-e9ab-4684-afd4-0bdae4ee37f2": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1971-06-16",
-    "note": "US rapper"
-  },
-  "0c2c52e1-7c33-400f-a370-a3028c195192": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1963-08-24",
-    "note": "Singer"
-  },
-  "ffafc8e1-1190-4b9e-a406-203f70e2ec11": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "2009",
-    "note": ""
-  },
-  "3d6c957d-14d6-465c-8e53-86262245af06": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1963-03-14",
-    "note": ""
-  },
-  "dfc6d0b8-3d0b-4b33-9b3f-dff972e25594": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1966-09-09",
-    "note": ""
-  },
-  "c3fb80b7-26b3-4fa1-9454-7324a5fde2aa": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1973-07-27",
-    "note": "drummer"
-  },
-  "abf9f319-da2f-4fdf-a3e4-40c4d0b0075d": {
+  "007acc91-08b9-45b1-ad00-3c47d30d5959": {
     "type": "solista",
     "country": "US",
     "debut": null,
@@ -479,196 +17,34 @@
     "debut": "1956-06-14",
     "note": "the man"
   },
-  "859d0860-d480-4efd-970c-c05d5f1776b8": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1981-09-04",
-    "note": ""
-  },
-  "f59c5520-5f46-4d2c-b2c4-822eabf53419": {
+  "028e1863-cab4-4a3d-9dd9-91c682c91005": {
     "type": "grupo",
     "country": "US",
-    "debut": "1996",
-    "note": "American rock band"
-  },
-  "4e4ebde4-0c56-4dec-844b-6c73adcdd92d": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1998-12-02",
-    "note": "US rapper"
-  },
-  "dda162b4-f871-4e89-b081-b7b3470782f0": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "2006",
+    "debut": "2001",
     "note": ""
   },
-  "06e8e168-36a2-4080-8c45-5f2df03f7693": {
+  "0295a34c-96ca-40d9-bdd1-6827c4a7c6d1": {
+    "type": "grupo",
+    "country": "–",
+    "debut": "–",
+    "note": "Heartfelt with Robby East"
+  },
+  "02cb5b07-f0ff-4e82-a1c7-a00a541359fc": {
     "type": "solista",
-    "country": null,
+    "country": "US",
     "debut": null,
     "note": ""
   },
-  "0febdcf7-4e1f-4661-9493-b40427de2c13": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1992",
-    "note": ""
-  },
-  "8bee1b07-d380-4e0b-b420-b253c1b5677e": {
+  "03f3deb7-0419-4bf9-a1e7-511946385717": {
     "type": "solista",
     "country": "US",
-    "debut": "1985-12-17",
-    "note": ""
+    "debut": "1977-10-25",
+    "note": "hip hop DJ & producer"
   },
-  "271df9e0-6231-4fa8-8c41-41be45d7b2d7": {
-    "type": "solista",
-    "country": null,
-    "debut": null,
-    "note": ""
-  },
-  "631e3bc5-428a-432b-87f7-5d357a007fc0": {
-    "type": "grupo",
-    "country": "RU",
-    "debut": "2011",
-    "note": "Russian feminist punk‐rock band"
-  },
-  "fbd2a255-1d57-4d31-ac11-65b671c19958": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1986-12",
-    "note": "American rock band"
-  },
-  "1634ec55-96ee-49b0-a0ea-427a4667ab33": {
-    "type": "solista",
-    "country": "PL",
-    "debut": "1984",
-    "note": ""
-  },
-  "664e2844-1eb4-4624-9122-3ea4b7d9cbb3": {
-    "type": "solista",
-    "country": null,
-    "debut": "1983-06-16",
-    "note": ""
-  },
-  "2f58d07c-4ed6-4f29-8b10-95266e16fe1b": {
+  "03f93de6-6d62-4710-bcc7-9b3d7c3d95f5": {
     "type": "solista",
     "country": "US",
-    "debut": "1961-09-13",
-    "note": ""
-  },
-  "b616d6f0-ec1f-4c69-8a79-12a97ece7372": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1981",
-    "note": "US thrash metal band"
-  },
-  "bcd690d2-ebbc-4c6e-97df-f8880d08f301": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1963-04-24",
-    "note": ""
-  },
-  "9f0d5967-5b88-44d6-9fa1-7d4bb8b61ed0": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1951-08-25",
-    "note": ""
-  },
-  "d5518610-eedb-4291-bf95-cc125e9ca324": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "2012-05",
-    "note": "Alternative / Nu Metal"
-  },
-  "5563ac3c-8354-48cf-ad94-395a3ffcae79": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": "US turntablist/hip hop producer, with The Hitmen"
-  },
-  "07bf8d1d-7828-4931-a406-f52b16c6c6aa": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": "Avenged Sevenfold"
-  },
-  "2792b097-0b1d-4c50-97f6-f7f097f86438": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1968-01-28",
-    "note": "William Michael Griffin Jr., American rapper"
-  },
-  "6bfe9806-b477-4750-8bd2-b1d0acf901a9": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1974-05-31",
-    "note": "original vocalist of Xero (Linkin Park)"
-  },
-  "e408bb43-34fd-4737-8312-c31e3155a634": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1963-06-20",
-    "note": ""
-  },
-  "a4d62ced-2f87-488a-9c76-ab88ea7a2cbf": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1972-10-31",
-    "note": "American rapper"
-  },
-  "479497d4-e7c2-4e78-972e-56e78fac3995": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1956-06-26",
-    "note": ""
-  },
-  "fa5f1642-48ad-4337-9bcf-21a1c47af406": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1973-03-10",
-    "note": ""
-  },
-  "be797221-0117-45e3-81da-996f8d29db62": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1950-09-10",
-    "note": "guitarist for Aerosmith"
-  },
-  "92ed8183-8f22-42b2-af4e-d44137610fa0": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1947-06-01",
-    "note": "UK guitarist, member of The Rolling Stones, also goes by Ron Wood"
-  },
-  "38712b4c-0fd4-4c65-8c7a-45676fecc973": {
-    "type": "grupo",
-    "country": "GB",
-    "debut": "1904",
-    "note": ""
-  },
-  "509257a9-c5b0-43ff-b097-372d609d5515": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1951-01-05",
-    "note": ""
-  },
-  "42a636a0-dbe4-4d0c-abe2-1590fad9531b": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1964-05-30",
-    "note": ""
-  },
-  "e491fae8-3a5a-438e-8368-925753fb41a1": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1948-12-13",
-    "note": ""
-  },
-  "788ad31c-bf0c-4a31-83f8-b8b130d79c76": {
-    "type": "grupo",
-    "country": "FI",
-    "debut": "1993",
+    "debut": "1972-07-22",
     "note": ""
   },
   "04179e69-3eab-4b77-a5f8-8d2f08b44583": {
@@ -677,40 +53,190 @@
     "debut": "1986-03-02",
     "note": "video game arrangement"
   },
-  "b670e301-71c7-44e7-bae3-ab0edd4b6efc": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1968-09-15",
-    "note": ""
-  },
-  "6fea1339-260c-40fe-bb7a-ace5c8438955": {
+  "05072650-4b05-4e8b-83d0-dba2576e306a": {
     "type": "grupo",
-    "country": "IT",
-    "debut": "1997",
-    "note": ""
+    "country": "AU",
+    "debut": "1976",
+    "note": "Australian rock band"
   },
-  "33778df2-072c-4be6-a8cb-c9ddd8f3f715": {
+  "06cbaecf-fb0d-4fa3-aba4-b73e4876a480": {
     "type": "solista",
-    "country": "DK",
-    "debut": "1958-10-28",
+    "country": null,
+    "debut": "1967-12-19",
     "note": ""
   },
-  "db42a8aa-71b3-4e62-a406-7cad856ded8c": {
+  "06e8e168-36a2-4080-8c45-5f2df03f7693": {
     "type": "solista",
     "country": null,
     "debut": null,
-    "note": "video game arrangement"
+    "note": ""
   },
-  "f82bcf78-5b69-4622-a5ef-73800768d9ac": {
+  "0743b15a-3c32-48c8-ad58-cb325350befa": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1992-08-01",
+    "note": ""
+  },
+  "0780be69-eb62-4ffa-bb76-e4f466f4fc47": {
     "type": "solista",
     "country": "US",
-    "debut": "1969-12-04",
-    "note": "US rapper"
+    "debut": null,
+    "note": "hip hop producer & DJ"
   },
-  "7bd66c18-cb33-49aa-9279-140acedbdb49": {
+  "07bf8d1d-7828-4931-a406-f52b16c6c6aa": {
     "type": "solista",
     "country": "US",
-    "debut": "1985-04-13",
+    "debut": null,
+    "note": "Avenged Sevenfold"
+  },
+  "08b24fae-6114-4af4-a10f-054e09ffc5b9": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1986-04-24",
+    "note": ""
+  },
+  "092476a6-948e-4122-97d0-5883d45d3847": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1965-02-16",
+    "note": "drummer, co-founder of thrash metal band Slayer"
+  },
+  "0a3386b0-9634-40bf-aab4-4999dcad0e6d": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1982",
+    "note": ""
+  },
+  "0a8b5299-6bee-4fe0-8b1d-6ed528db0b24": {
+    "type": "solista",
+    "country": "JP",
+    "debut": "1988-04-17",
+    "note": "lead singer of ONE OK ROCK"
+  },
+  "0c2c52e1-7c33-400f-a370-a3028c195192": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1963-08-24",
+    "note": "singer"
+  },
+  "0d00b498-512d-4a4d-9234-a4d710f37e6d": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1980-01-22",
+    "note": "American guitarist and producer"
+  },
+  "0ead8982-1f21-41b6-91b4-c72fef8b7239": {
+    "type": "solista",
+    "country": "DK",
+    "debut": "1958-07-11",
+    "note": ""
+  },
+  "0febdcf7-4e1f-4661-9493-b40427de2c13": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1992",
+    "note": ""
+  },
+  "10a9ff92-9637-4498-afea-7044b2ab0dc0": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1972-05-20",
+    "note": ""
+  },
+  "118ba687-ad7f-4c28-9355-67e14b18baeb": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1962-11-02",
+    "note": ""
+  },
+  "1192f833-d3af-43bc-b961-35881d305e3a": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1969-01-06",
+    "note": "UK vocalist"
+  },
+  "11f66ca4-02d9-429e-a117-892a0af8fa6a": {
+    "type": "solista",
+    "country": null,
+    "debut": null,
+    "note": "bass guitarist of Evanescence"
+  },
+  "123814ce-f7f7-44c9-b84d-0088b1e230a4": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1949-07-17",
+    "note": ""
+  },
+  "14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1944-06-24",
+    "note": "English rock guitarist"
+  },
+  "14c7b043-940e-4f71-8c57-2f4d76db53cc": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1968-06-21",
+    "note": ""
+  },
+  "14cd65aa-899b-457c-9652-afffe5c3cbc4": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "14ecd19f-7121-4192-8549-e5056241a42f": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1977-05-14",
+    "note": ""
+  },
+  "14ed9dea-1bb0-4743-ba32-39674a71da89": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1946-12-29",
+    "note": ""
+  },
+  "15a5032b-70f2-4c00-bab9-5072b6fbba02": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1951-12-04",
+    "note": ""
+  },
+  "15d2ba47-d023-43da-808a-ceeb671bf8a5": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1976-10-24",
+    "note": ""
+  },
+  "1634ec55-96ee-49b0-a0ea-427a4667ab33": {
+    "type": "solista",
+    "country": "PL",
+    "debut": "1984",
+    "note": ""
+  },
+  "164f0d73-1234-4e2c-8743-d77bf2191051": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1977-06-08",
+    "note": "formerly Kanye West"
+  },
+  "17abcf70-f020-443b-b307-617b2f7d23c8": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "18511320-ff94-495e-8a48-96be8641caf8": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1974-05-16",
+    "note": "American singer and rapper"
+  },
+  "19516266-e5d9-4774-b749-812bb76a6559": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1994",
     "note": ""
   },
   "1a4bd489-2bb7-48e1-9a8c-d27b367216e0": {
@@ -719,16 +245,292 @@
     "debut": "1967-05-08",
     "note": ""
   },
-  "ee6032a6-e286-4716-90d9-b9523720ade9": {
+  "1a514796-a056-4b62-b54e-363f6fa39ce5": {
     "type": "solista",
     "country": "US",
-    "debut": "1975-06-10",
-    "note": "American rapper"
+    "debut": "1981-07-07",
+    "note": ""
   },
-  "ecaf3d24-eb84-4aaf-8372-12ee3b0f1350": {
+  "1ab1886b-ea86-43b5-927c-55de4f8c9683": {
     "type": "solista",
     "country": "US",
-    "debut": "1970-11-29",
+    "debut": null,
+    "note": ""
+  },
+  "1cc9d454-9ee8-4d29-bc8e-c4190cf352f6": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1986-05-06",
+    "note": "Dead Sara and Linkin Park singer"
+  },
+  "1cee1f74-179d-446d-8347-de31e8202f2b": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "248ead7d-8058-4e0c-b334-fde70c036f8d": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1963-03-04",
+    "note": ""
+  },
+  "24a43e36-0435-4f04-ae9a-d5d73e52d278": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1986-04-17",
+    "note": ""
+  },
+  "24e1b53c-3085-4581-8472-0b0088d2508c": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1999",
+    "note": "American metal band"
+  },
+  "250c291f-f7ea-4064-a8ff-d9aeb4bc3124": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1974-07-02",
+    "note": ""
+  },
+  "253bfe58-d68a-4f96-9b7a-70d977cbf66d": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1990",
+    "note": "US producer duo Chad Hugo & Pharrell Williams"
+  },
+  "271df9e0-6231-4fa8-8c41-41be45d7b2d7": {
+    "type": "solista",
+    "country": null,
+    "debut": null,
+    "note": ""
+  },
+  "2792b097-0b1d-4c50-97f6-f7f097f86438": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1968-01-28",
+    "note": "William Michael Griffin Jr., American rapper"
+  },
+  "28224c00-f987-46f5-809c-01a5df443034": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "2831a6fb-851e-4ee7-97f5-aaa46a4f6e2f": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1978-07-02",
+    "note": ""
+  },
+  "294c31d1-6674-431d-8519-8dc398ee549c": {
+    "type": "grupo",
+    "country": null,
+    "debut": null,
+    "note": ""
+  },
+  "29a6f210-8c16-404a-9c0f-c26e26ecb29c": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1958-01-24",
+    "note": ""
+  },
+  "2b9673bd-a61d-4b3e-a586-ec5053dd7cf7": {
+    "type": "grupo",
+    "country": "IE",
+    "debut": "1995",
+    "note": ""
+  },
+  "2d4a1dd1-2cd8-4553-bf0b-74b8c9179633": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1977-12-01",
+    "note": ""
+  },
+  "2dc7a305-7a8c-4fcc-add4-5e9def0a9a0d": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1962-10-16",
+    "note": "US bassist"
+  },
+  "2f2164a8-f50c-48d9-8aa7-81e1c1cb2fd4": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1974-11-09",
+    "note": ""
+  },
+  "2f58d07c-4ed6-4f29-8b10-95266e16fe1b": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1961-09-13",
+    "note": ""
+  },
+  "2f5bc83d-d5b0-48ca-9dd1-30bc5bd779b5": {
+    "type": "grupo",
+    "country": null,
+    "debut": null,
+    "note": ""
+  },
+  "2f717eb4-847a-4d0d-82b4-edfd5d05558a": {
+    "type": "solista",
+    "country": "US",
+    "debut": "–",
+    "note": ""
+  },
+  "33778df2-072c-4be6-a8cb-c9ddd8f3f715": {
+    "type": "solista",
+    "country": "DK",
+    "debut": "1958-10-28",
+    "note": ""
+  },
+  "35424b33-ae1d-4a35-9005-ba3583453466": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1967-01-30",
+    "note": "producer, engineer and lead singer of Orgy"
+  },
+  "382f1005-e9ab-4684-afd4-0bdae4ee37f2": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1971-06-16",
+    "note": "US rapper"
+  },
+  "38712b4c-0fd4-4c65-8c7a-45676fecc973": {
+    "type": "grupo",
+    "country": "GB",
+    "debut": "1904",
+    "note": ""
+  },
+  "3b02795b-bd2c-4aac-8f6c-e581514cc2d8": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1996",
+    "note": "US hip-hop duo"
+  },
+  "3b49abe4-6b0e-47f8-a8db-1bdc538f6ca7": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1986-12-26",
+    "note": "songwriter/producer Colin Cunningham"
+  },
+  "3d6c957d-14d6-465c-8e53-86262245af06": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1963-03-14",
+    "note": ""
+  },
+  "3f685d7b-8382-4956-8669-b94943fb9729": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "3f8c7dda-6a3f-4cce-a298-8985e467b6ed": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1971-09-05",
+    "note": "drummer of Evanescence"
+  },
+  "3fdd7979-0898-4687-adaf-895b178bceaa": {
+    "type": "solista",
+    "country": "GB",
+    "debut": null,
+    "note": ""
+  },
+  "4072139a-699c-4011-9bcc-baae6f959390": {
+    "type": "solista",
+    "country": "FR",
+    "debut": "1981-02-03",
+    "note": "French electro artist"
+  },
+  "40b0dfb0-d7e7-4a92-b0fa-12ed9af54993": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1963-12-31",
+    "note": ""
+  },
+  "415e30a0-116b-4a4f-8cbf-8d0f6406bbab": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1976-03-20",
+    "note": ""
+  },
+  "422763c1-9762-4586-b2a4-0a6f54ed254e": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1977-02-15",
+    "note": ""
+  },
+  "42a636a0-dbe4-4d0c-abe2-1590fad9531b": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1964-05-30",
+    "note": ""
+  },
+  "42ba45d2-4938-4bf5-9121-5caffc719c4d": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1975-07-18",
+    "note": ""
+  },
+  "43e1570a-1a0d-479f-9c95-fba971aec91a": {
+    "type": "solista",
+    "country": "CN",
+    "debut": "1982-06-14",
+    "note": "Chinese pianist"
+  },
+  "4757df70-6c3e-46b8-99c0-a68644595c9a": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1993-11-13",
+    "note": ""
+  },
+  "479497d4-e7c2-4e78-972e-56e78fac3995": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1956-06-26",
+    "note": ""
+  },
+  "4813a504-82ca-4f9c-a164-324552cf8d6c": {
+    "type": "solista",
+    "country": "CA",
+    "debut": "1982-01-06",
+    "note": ""
+  },
+  "4bdcee62-4902-4773-8cd1-e252e2e31225": {
+    "type": "solista",
+    "country": "CA",
+    "debut": "1974-06-01",
+    "note": ""
+  },
+  "4c45495f-b9f3-4d03-9fac-d44c8a77f5de": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1962-11-18",
+    "note": ""
+  },
+  "4dc5397b-d31a-4fe8-9905-e2cec352e3d2": {
+    "type": "solista",
+    "country": "ZA",
+    "debut": null,
+    "note": ""
+  },
+  "4df5d35b-a9d4-4d4f-91f6-bae55693de31": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1996",
+    "note": ""
+  },
+  "4e4ebde4-0c56-4dec-844b-6c73adcdd92d": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1998-12-02",
+    "note": "US rapper"
+  },
+  "4eff36b0-5945-4ec9-a661-d99d002c3cb2": {
+    "type": "solista",
+    "country": "US",
+    "debut": "2000",
     "note": ""
   },
   "4f0730d0-fd52-4818-8a5d-f3f69ce8f378": {
@@ -737,7 +539,931 @@
     "debut": "1954-04-19",
     "note": ""
   },
+  "509257a9-c5b0-43ff-b097-372d609d5515": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1951-01-05",
+    "note": ""
+  },
+  "51130579-0d81-4206-a74f-82f0ffc63b3f": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1984-11-18",
+    "note": "guitarist for Avenged Sevenfold"
+  },
+  "519774a4-3b18-4042-b8c0-927845a616c9": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1944-01-09",
+    "note": ""
+  },
+  "52b9e109-44a0-45eb-a197-226c4abab232": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1994",
+    "note": ""
+  },
+  "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1986-09-21",
+    "note": ""
+  },
+  "53f7e21d-7f2d-4a63-8015-26d20ad48b6e": {
+    "type": "grupo",
+    "country": null,
+    "debut": null,
+    "note": ""
+  },
+  "5563ac3c-8354-48cf-ad94-395a3ffcae79": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": "US turntablist/hip hop producer, with The Hitmen"
+  },
+  "56c4b861-0922-4c3a-a9b9-3bfcb00f8274": {
+    "type": "solista",
+    "country": "DE",
+    "debut": "1989-09-02",
+    "note": "Russian‐German producer"
+  },
+  "56cfe6aa-b464-43d2-bec7-8ec52f313e7d": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1999",
+    "note": ""
+  },
+  "58a2660a-0d6f-4f46-b515-63cc191ee2c3": {
+    "type": "grupo",
+    "country": "US",
+    "debut": null,
+    "note": "US techno remixers “Call Me”"
+  },
+  "58e71d3e-559a-40f0-88c1-0fa40c7a218f": {
+    "type": "solista",
+    "country": null,
+    "debut": "1974-01-26",
+    "note": ""
+  },
+  "5a4663a0-8554-40f1-8646-e73ed808a078": {
+    "type": "solista",
+    "country": null,
+    "debut": null,
+    "note": ""
+  },
+  "5b884504-d421-4c30-ace7-7ea0045c21bf": {
+    "type": "solista",
+    "country": null,
+    "debut": null,
+    "note": "Metal guitarist/producer"
+  },
+  "5f39d33c-a167-4a63-9c44-71d27618b712": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1971-10-03",
+    "note": "US rapper, singer, and actor Tarik Trotter"
+  },
+  "5f6ab597-f57a-40da-be9e-adad48708203": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1965-02-18",
+    "note": "Andre Young, rap producer"
+  },
+  "60fd91c9-d22c-4775-9ac6-7993fdf1c81d": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1979-06-28",
+    "note": "guitarist of Evanescence"
+  },
+  "631e3bc5-428a-432b-87f7-5d357a007fc0": {
+    "type": "grupo",
+    "country": "RU",
+    "debut": "2011",
+    "note": "Russian feminist punk‐rock band"
+  },
+  "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1981-10-28",
+    "note": ""
+  },
+  "664e2844-1eb4-4624-9122-3ea4b7d9cbb3": {
+    "type": "solista",
+    "country": null,
+    "debut": "1983-06-16",
+    "note": ""
+  },
+  "67fd5116-7a49-4abf-a34f-b08774128a7a": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1993-07-26",
+    "note": ""
+  },
+  "68c34082-c1d5-4399-af9b-3921ca0a6a1f": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1963-08-03",
+    "note": ""
+  },
+  "698ff525-ff51-4206-8f08-60a7458aab24": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1978-09-13",
+    "note": "US hip hop producer"
+  },
+  "6b157116-6f1c-45d4-9364-302fd664a80e": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1985-02-21",
+    "note": ""
+  },
+  "6bfe9806-b477-4750-8bd2-b1d0acf901a9": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1974-05-31",
+    "note": "original vocalist of Xero (Linkin Park)"
+  },
+  "6f460841-9917-451d-838d-0d8bb19c3ea8": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1967-10-07",
+    "note": ""
+  },
+  "6fea1339-260c-40fe-bb7a-ace5c8438955": {
+    "type": "grupo",
+    "country": "IT",
+    "debut": "1997",
+    "note": ""
+  },
+  "717f3252-14e9-461a-9233-12e4f9c08df3": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1981-02-09",
+    "note": "Avenged Sevenfold drummer"
+  },
+  "74ccae95-29a8-4df2-be77-aed9b0cefbff": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1977-03",
+    "note": "hip hop turntablist/DJ"
+  },
+  "75167b8b-44e4-407b-9d35-effe87b223cf": {
+    "type": "solista",
+    "country": "CA",
+    "debut": "1945-11-12",
+    "note": "Canadian singer, songwriter & musician"
+  },
+  "7527f6c2-d762-4b88-b5e2-9244f1e34c46": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1988",
+    "note": ""
+  },
+  "75af3e29-3708-434a-b556-daec1df82d17": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "–",
+    "note": "member of Anti-Nowhere League"
+  },
+  "76716b81-e361-427e-a931-19373388387d": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1975-08-27",
+    "note": "US rapper"
+  },
+  "76ba95d5-1483-43fa-b142-16dee709b49c": {
+    "type": "solista",
+    "country": "US",
+    "debut": "–",
+    "note": ""
+  },
+  "777038ba-d2b5-41ab-a6c5-57a7e97abdf1": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1964-10-23",
+    "note": ""
+  },
+  "788ad31c-bf0c-4a31-83f8-b8b130d79c76": {
+    "type": "grupo",
+    "country": "FI",
+    "debut": "1993",
+    "note": ""
+  },
+  "788c12f0-a1f8-4166-8048-2bbe2b6b193e": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "78a4d3e2-5f12-48f6-b929-223f8926a50f": {
+    "type": "solista",
+    "country": null,
+    "debut": null,
+    "note": "member of Das EFX"
+  },
+  "7a77627e-78f3-489f-827a-7caea3342bba": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1962-02-10",
+    "note": ""
+  },
+  "7bd66c18-cb33-49aa-9279-140acedbdb49": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1985-04-13",
+    "note": ""
+  },
+  "7c679635-a892-496b-82e7-84abe3eb5739": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1972-10-08",
+    "note": ""
+  },
+  "7ee89158-3446-4044-bb88-0dcc4d4cd6c0": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1981-12-13",
+    "note": "singer and keyboardist of Evanescence"
+  },
+  "7fedce48-0f20-442d-80fe-324c61339fc3": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "2001",
+    "note": ""
+  },
+  "8006f1d0-8851-46d8-a928-085c686b29b9": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1978-12-05",
+    "note": "American record producer & songwriter"
+  },
+  "80648aaa-e803-42b3-aa29-47cc2dfaf734": {
+    "type": "solista",
+    "country": "GB",
+    "debut": null,
+    "note": ""
+  },
+  "80cadd99-f560-41e3-babd-16292bbd248a": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1969-01-05",
+    "note": "the person"
+  },
+  "82cbe859-5255-4bbd-bda3-7610a3f857dc": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1997-01-28",
+    "note": "pop-punk singer"
+  },
+  "82e454e2-38ee-4e69-89a6-cc65167753d1": {
+    "type": "grupo",
+    "country": "GB",
+    "debut": "2003",
+    "note": ""
+  },
+  "831edb92-ef1d-4294-b686-578b0cd1d2f9": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1968-08-07",
+    "note": ""
+  },
+  "8390d393-8f31-4578-8d20-a471dce66f02": {
+    "type": "grupo",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "844b702c-75bb-43ec-af88-c252a7f8bfd1": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1961-04-09",
+    "note": ""
+  },
+  "85823097-9e6c-4876-a04a-8a761a477992": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1996",
+    "note": ""
+  },
+  "859d0860-d480-4efd-970c-c05d5f1776b8": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1981-09-04",
+    "note": ""
+  },
+  "86034d1d-f66e-426d-ad52-ca5511a9b428": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1972-04-13",
+    "note": "lead vocalist for Staind"
+  },
+  "860b2707-6153-4e3a-aa57-74d2b42c55b5": {
+    "type": "grupo",
+    "country": "FR",
+    "debut": "2003",
+    "note": "French electro house, Gaspard Augé & Xavier de Rosnay"
+  },
+  "871c27c9-2121-4eb9-a072-e36a0e367642": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1971-06-26",
+    "note": ""
+  },
+  "878474ee-45b8-4f2b-94e2-cc372612d088": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "8823bbc2-9a2f-44b3-9983-29f6f0da84d6": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1970-08-03",
+    "note": "United States musician, Deftones guitarist"
+  },
+  "8925a01a-8608-411d-a90b-f3a52d061208": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1987",
+    "note": ""
+  },
+  "8aa5b65a-5b3c-4029-92bf-47a544356934": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1948-12-03",
+    "note": ""
+  },
+  "8bee1b07-d380-4e0b-b420-b253c1b5677e": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1985-12-17",
+    "note": ""
+  },
+  "8e68819d-71be-4e7d-b41d-f1df81b01d3f": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1975-07-06",
+    "note": ""
+  },
+  "92caf313-a918-472d-9feb-50ac01e910d0": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1974-09-17",
+    "note": "Filipino-American DJ and producer"
+  },
+  "92ed8183-8f22-42b2-af4e-d44137610fa0": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1947-06-01",
+    "note": "UK guitarist, member of The Rolling Stones, also goes by Ron Wood"
+  },
+  "960eb93f-e73c-4df8-864d-08a06c2dcc11": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1966-03-18",
+    "note": ""
+  },
+  "9878be28-66b3-47f9-a019-baf1b32876ff": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1984-04-05",
+    "note": ""
+  },
+  "995c1ef8-5a55-40dc-b87f-f4a0ee95650b": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1976-12-10",
+    "note": "US rapper, member of Dilated Peoples"
+  },
+  "998e72ce-be35-4b5b-8309-499e033449dc": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": "rock guitarist from Detroit, MI"
+  },
+  "9a458130-4e20-4f29-aaee-99784f29c7f5": {
+    "type": "solista",
+    "country": "CA",
+    "debut": "1980-03-21",
+    "note": ""
+  },
+  "9c5869a0-c8dc-45bb-83b1-c9a37f237cb2": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1997-08-30",
+    "note": ""
+  },
+  "9d1ebcfe-4c15-4d18-95d3-d919898638a1": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1942-03-02",
+    "note": ""
+  },
+  "9f0d5967-5b88-44d6-9fa1-7d4bb8b61ed0": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1951-08-25",
+    "note": ""
+  },
+  "9fff2f8a-21e6-47de-a2b8-7f449929d43f": {
+    "type": "solista",
+    "country": "CA",
+    "debut": "1986-10-24",
+    "note": "Canadian rapper"
+  },
+  "a0179b4e-d19c-4420-b80b-79d90a4dce13": {
+    "type": "solista",
+    "country": "AU",
+    "debut": null,
+    "note": "Australian electronic producer Eric Chapus"
+  },
+  "a05add38-ccf0-4e27-a701-d4a09079682e": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1991",
+    "note": ""
+  },
+  "a0a7a15b-3104-43ca-8da8-e31261e1bf1b": {
+    "type": "solista",
+    "country": null,
+    "debut": null,
+    "note": ""
+  },
+  "a0d47559-6ffc-464a-a4d6-30777e5c76f7": {
+    "type": "solista",
+    "country": "FR",
+    "debut": null,
+    "note": ""
+  },
+  "a39acc4a-985e-4173-a9ed-f325f2d3bc1c": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1977-11-30",
+    "note": ""
+  },
+  "a4256437-7cad-40b7-a135-9767863c90cf": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": "US bassist for Deftones & Quicksand"
+  },
+  "a4d62ced-2f87-488a-9c76-ab88ea7a2cbf": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1972-10-31",
+    "note": "American rapper"
+  },
+  "a668565b-41b8-44a8-9d5c-8e609dbf69fc": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1997-08-23",
+    "note": "US rapper"
+  },
+  "a8754ac4-a85e-4f48-a81f-eecd482570ef": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1991",
+    "note": ""
+  },
+  "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1983-06",
+    "note": ""
+  },
+  "aae2c144-4375-4666-bd4f-eda3632bcc38": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1961-07-21",
+    "note": "ex-Faith No More guitarist"
+  },
+  "abbbef3b-19d7-4ef8-9ef2-e4d2c556509c": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1987",
+    "note": "a cappella gospel sextet"
+  },
+  "abf9f319-da2f-4fdf-a3e4-40c4d0b0075d": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "ac865b2e-bba8-4f5a-8756-dd40d5e39f46": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1993",
+    "note": "US nu metal band"
+  },
+  "ac9a487a-d9d2-4f27-bb23-0f4686488345": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1982-09-27",
+    "note": ""
+  },
+  "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1971-01-17",
+    "note": "American singer/rapper"
+  },
+  "adcc6c98-0bf1-4d54-84aa-2249cf5e46bf": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1948-04-15",
+    "note": "American score composer"
+  },
+  "adfa9d07-123c-4dc8-b1bb-99282b166b60": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1971-01-18",
+    "note": "vocalist for Korn"
+  },
+  "ae002c5d-aac6-490b-a39a-30aa9e2edf2b": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1988-01-15",
+    "note": ""
+  },
+  "afac07f5-d4aa-43f4-bad3-6bc2bb474cba": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1944-06-21",
+    "note": "UK singer/songwriter, member of The Kinks"
+  },
+  "b0f58ed1-bc2d-4f28-828d-dcad36d11872": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1970-06-19",
+    "note": ""
+  },
   "b11dead2-cf30-482a-a35d-31b914c24551": {
+    "type": "solista",
+    "country": null,
+    "debut": null,
+    "note": ""
+  },
+  "b16aa5fe-e00b-41af-bb81-c254aab6059c": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "b211c9bf-9009-47cb-bd00-95f7cdcb5931": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1989-06-06",
+    "note": "video game arrangement"
+  },
+  "b504f625-4ef6-4a5a-81e8-870a61e8dc9c": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1976-02-29",
+    "note": ""
+  },
+  "b5404b0a-2f16-4926-ac87-a7af655ec54e": {
+    "type": "grupo",
+    "country": "JP",
+    "debut": "1998",
+    "note": "Jun Senoue & Johnny Gioeli project"
+  },
+  "b616d6f0-ec1f-4c69-8a79-12a97ece7372": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1981",
+    "note": "US thrash metal band"
+  },
+  "b6408ac8-018b-4f5e-b0e7-9a9ab24b7160": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1968-11-04",
+    "note": "guitarist of Evanescence"
+  },
+  "b670e301-71c7-44e7-bae3-ab0edd4b6efc": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1968-09-15",
+    "note": ""
+  },
+  "b777a711-02c9-4f2f-99a2-e40fd6ca0577": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1996-08",
+    "note": "uk rapper"
+  },
+  "b7a15023-91c9-4157-acad-f6a2d04132ad": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1982",
+    "note": ""
+  },
+  "b7ffd2af-418f-4be2-bdd1-22f8b48613da": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1988",
+    "note": ""
+  },
+  "b95ce3ff-3d05-4e87-9e01-c97b66af13d4": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1972-10-17",
+    "note": "US rapper"
+  },
+  "ba67b04a-0c85-45b0-93ee-0d0e66fc19df": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1975-04-26",
+    "note": ""
+  },
+  "bb4823bc-16a6-4586-b16b-ae130a54ce20": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1988-02-17",
+    "note": ""
+  },
+  "bc1b5c95-e6d6-46b5-957a-5e8908b02c1e": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1974-07-11",
+    "note": "US rapper"
+  },
+  "bcd690d2-ebbc-4c6e-97df-f8880d08f301": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1963-04-24",
+    "note": ""
+  },
+  "bd089811-afc0-49c8-99c4-d6c7d95a62cc": {
+    "type": "grupo",
+    "country": null,
+    "debut": "2006-10-01",
+    "note": "Los Angeles alternative rock/hiphop band"
+  },
+  "be797221-0117-45e3-81da-996f8d29db62": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1950-09-10",
+    "note": "guitarist for Aerosmith"
+  },
+  "bea235a0-db63-44b1-881e-264d25791f5a": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1982-02-18",
+    "note": ""
+  },
+  "bfa07532-f43d-496b-9603-38c718a5f406": {
+    "type": "solista",
+    "country": null,
+    "debut": null,
+    "note": ""
+  },
+  "c106e50b-c421-4599-ac27-7d1fcc5f6de5": {
+    "type": "solista",
+    "country": "–",
+    "debut": "–",
+    "note": "featured on the \"Sonic 3D Blast\" soundtrack"
+  },
+  "c1ec2f0f-4e8e-41e8-8f0b-c9e047a276a4": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": "Brooklyn rapper John Simpson III"
+  },
+  "c1f5d7c6-1bce-45f1-bb80-f9c74bb9c740": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1973-03-19",
+    "note": ""
+  },
+  "c262b6bf-be56-4b26-bceb-42d7a27342f3": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1977-02-11",
+    "note": ""
+  },
+  "c3aa624f-9b04-4414-b3f0-1f844d165440": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1960-05-18",
+    "note": ""
+  },
+  "c3fb80b7-26b3-4fa1-9454-7324a5fde2aa": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1973-07-27",
+    "note": "drummer"
+  },
+  "c695a124-371e-4474-9f19-043cae14a0db": {
+    "type": "grupo",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "c6f9dc60-8313-4a95-9edc-0b6913bf4159": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1970-06-19",
+    "note": "Brian Phillip Welch, member of Korn"
+  },
+  "c77a7890-dc0e-4c5d-a7b4-96baa462c251": {
+    "type": "solista",
+    "country": "JP",
+    "debut": "1966-11-13",
+    "note": ""
+  },
+  "c7b39e08-b1aa-44fc-80fa-40724b24a48a": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1973-04-11",
+    "note": ""
+  },
+  "c8975bbf-2778-47ae-accf-c584e644450d": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1977-02-08",
+    "note": ""
+  },
+  "c8b1d8eb-074d-4b26-98ff-9622e3c304ac": {
+    "type": "solista",
+    "country": "DK",
+    "debut": "1958-11-05",
+    "note": ""
+  },
+  "c8dbbadb-f5f1-449c-8827-43d00a73fe89": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1970-09-06",
+    "note": ""
+  },
+  "c8dbc2ee-66f2-4fe6-8d7c-8b958bc97d99": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1970-10-09",
+    "note": "American score composer"
+  },
+  "cabb4fcf-4067-4ba5-908d-76ee66fcf0c6": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1969-11-04",
+    "note": "Sean Combs, aka Puff Daddy, P. Diddy"
+  },
+  "caeb044d-073c-4dfb-ad77-551a969c28c9": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1927-10-07",
+    "note": "British composer, arranger, conductor, and trumpeter"
+  },
+  "cbf9738d-8f81-4a92-bc64-ede09341652d": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1964-07-20",
+    "note": "Soundgarden lead singer"
+  },
+  "cc0b7089-c08d-4c10-b6b0-873582c17fd6": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1994",
+    "note": ""
+  },
+  "cd243535-5af3-41cf-a389-3c900707019f": {
+    "type": "solista",
+    "country": "IE",
+    "debut": "1947-12-04",
+    "note": ""
+  },
+  "cd9f27b3-edc6-4092-9a96-020b00213bc6": {
+    "type": "solista",
+    "country": null,
+    "debut": null,
+    "note": ""
+  },
+  "cfbc0924-0035-4d6c-8197-f024653af823": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1973-09-14",
+    "note": "US rapper"
+  },
+  "d07bca29-d980-4100-8cad-065a05f2b343": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1977-03-15",
+    "note": ""
+  },
+  "d1fc999f-6184-41a6-bcb1-7c59bf74a6e1": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1985-06-30",
+    "note": ""
+  },
+  "d3dd86df-2f57-4a97-8100-d09915343f60": {
+    "type": "grupo",
+    "country": "GB",
+    "debut": "1976",
+    "note": "UK heavy metal band"
+  },
+  "d530dad4-81e5-4874-808a-d708039289fb": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1965-10-30",
+    "note": ""
+  },
+  "d5518610-eedb-4291-bf95-cc125e9ca324": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "2012-05",
+    "note": "Alternative / Nu Metal"
+  },
+  "d87b1ad2-9af1-4dc1-b5c5-a27cfbd4bb45": {
+    "type": "solista",
+    "country": "–",
+    "debut": "–",
+    "note": ""
+  },
+  "d884438c-994f-42a5-a31b-82731a0afceb": {
+    "type": "grupo",
+    "country": "CA",
+    "debut": null,
+    "note": ""
+  },
+  "db42a8aa-71b3-4e62-a406-7cad856ded8c": {
+    "type": "solista",
+    "country": null,
+    "debut": null,
+    "note": "video game arrangement"
+  },
+  "db8fad3a-e131-47a1-8782-c2ee93708cdd": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1989-08-30",
+    "note": ""
+  },
+  "dbc26631-5e61-4ba2-84ff-e1423a1c288a": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1995-05-24",
+    "note": ""
+  },
+  "dbd1b11b-0ab2-4afd-8264-c2909237b6fb": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "dc9bcf17-5047-4d6c-8001-7194f13819cf": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1979-12-17",
+    "note": ""
+  },
+  "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1983",
+    "note": ""
+  },
+  "dd095e54-58a4-4a54-bf16-ab9b9e96b382": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1972-09-07",
+    "note": "US underground hip hop MC Sean Daley"
+  },
+  "dda04dd2-d815-4516-a640-949848f90d6e": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1986-11-20",
+    "note": ""
+  },
+  "dda162b4-f871-4e89-b081-b7b3470782f0": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "2006",
+    "note": ""
+  },
+  "deebc49a-6e06-418e-860f-8c7f770a8bac": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1911",
+    "note": ""
+  },
+  "dfc6d0b8-3d0b-4b33-9b3f-dff972e25594": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1966-09-09",
+    "note": ""
+  },
+  "e0fb8111-2fc6-4ca9-9743-66d499f5e5c8": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "e2190b35-1181-44f6-8587-4c04123a6f30": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1963-12-26",
+    "note": ""
+  },
+  "e2c4a626-9be0-48c1-979e-9926aec64515": {
     "type": "solista",
     "country": null,
     "debut": null,
@@ -749,455 +1475,11 @@
     "debut": "1981-12-11",
     "note": ""
   },
-  "c77a7890-dc0e-4c5d-a7b4-96baa462c251": {
-    "type": "solista",
-    "country": "JP",
-    "debut": "1966-11-13",
-    "note": ""
-  },
-  "b504f625-4ef6-4a5a-81e8-870a61e8dc9c": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1976-02-29",
-    "note": ""
-  },
-  "415e30a0-116b-4a4f-8cbf-8d0f6406bbab": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1976-03-20",
-    "note": ""
-  },
-  "aae2c144-4375-4666-bd4f-eda3632bcc38": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1961-07-21",
-    "note": "ex-Faith No More guitarist"
-  },
-  "ebc723f0-afc5-40d2-9154-e22216f9d66e": {
-    "type": "solista",
-    "country": "DK",
-    "debut": null,
-    "note": "Lars Ulrich's drum technician"
-  },
-  "5a4663a0-8554-40f1-8646-e73ed808a078": {
-    "type": "solista",
-    "country": null,
-    "debut": null,
-    "note": ""
-  },
-  "831edb92-ef1d-4294-b686-578b0cd1d2f9": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1968-08-07",
-    "note": ""
-  },
-  "ed1c0daa-9cdb-4bd8-8f46-794ec0783544": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1970-07-15",
-    "note": ""
-  },
-  "c6f9dc60-8313-4a95-9edc-0b6913bf4159": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1970-06-19",
-    "note": "Brian Phillip Welch, member of Korn"
-  },
-  "0ead8982-1f21-41b6-91b4-c72fef8b7239": {
-    "type": "solista",
-    "country": "DK",
-    "debut": "1958-07-11",
-    "note": ""
-  },
-  "19516266-e5d9-4774-b749-812bb76a6559": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1994",
-    "note": ""
-  },
-  "5f39d33c-a167-4a63-9c44-71d27618b712": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1971-10-03",
-    "note": "US rapper, singer, and actor Tarik Trotter"
-  },
-  "80cadd99-f560-41e3-babd-16292bbd248a": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1969-01-05",
-    "note": "the person"
-  },
-  "717f3252-14e9-461a-9233-12e4f9c08df3": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1981-02-09",
-    "note": "Avenged Sevenfold drummer"
-  },
-  "7fedce48-0f20-442d-80fe-324c61339fc3": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "2001",
-    "note": ""
-  },
-  "e2c4a626-9be0-48c1-979e-9926aec64515": {
-    "type": "solista",
-    "country": null,
-    "debut": null,
-    "note": ""
-  },
-  "698ff525-ff51-4206-8f08-60a7458aab24": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1978-09-13",
-    "note": "US hip hop producer"
-  },
-  "cabb4fcf-4067-4ba5-908d-76ee66fcf0c6": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1969-11-04",
-    "note": "Sean Combs, aka Puff Daddy, P. Diddy"
-  },
-  "dc9bcf17-5047-4d6c-8001-7194f13819cf": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1979-12-17",
-    "note": ""
-  },
-  "b5404b0a-2f16-4926-ac87-a7af655ec54e": {
-    "type": "grupo",
-    "country": "JP",
-    "debut": "1998",
-    "note": "Jun Senoue & Johnny Gioeli project"
-  },
-  "a8754ac4-a85e-4f48-a81f-eecd482570ef": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1991",
-    "note": ""
-  },
-  "85823097-9e6c-4876-a04a-8a761a477992": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1996",
-    "note": ""
-  },
-  "dbc26631-5e61-4ba2-84ff-e1423a1c288a": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1995-05-24",
-    "note": ""
-  },
-  "bfa07532-f43d-496b-9603-38c718a5f406": {
-    "type": "solista",
-    "country": null,
-    "debut": null,
-    "note": ""
-  },
-  "c106e50b-c421-4599-ac27-7d1fcc5f6de5": {
-    "type": "solista",
-    "country": null,
-    "debut": null,
-    "note": "featured on the \"Sonic 3D Blast\" soundtrack"
-  },
-  "3f8c7dda-6a3f-4cce-a298-8985e467b6ed": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1971-09-05",
-    "note": "drummer of Evanescence"
-  },
-  "4813a504-82ca-4f9c-a164-324552cf8d6c": {
-    "type": "solista",
-    "country": "CA",
-    "debut": "1982-01-06",
-    "note": ""
-  },
-  "ba67b04a-0c85-45b0-93ee-0d0e66fc19df": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1975-04-26",
-    "note": ""
-  },
-  "f59a5dac-939a-4f12-a35c-9a49676f6898": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "2011",
-    "note": ""
-  },
-  "cbf9738d-8f81-4a92-bc64-ede09341652d": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1964-07-20",
-    "note": "Soundgarden lead singer"
-  },
-  "cfbc0924-0035-4d6c-8197-f024653af823": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1973-09-14",
-    "note": "US rapper"
-  },
-  "a0a7a15b-3104-43ca-8da8-e31261e1bf1b": {
-    "type": "solista",
-    "country": null,
-    "debut": null,
-    "note": ""
-  },
-  "118ba687-ad7f-4c28-9355-67e14b18baeb": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1962-11-02",
-    "note": ""
-  },
-  "9fff2f8a-21e6-47de-a2b8-7f449929d43f": {
-    "type": "solista",
-    "country": "CA",
-    "debut": "1986-10-24",
-    "note": "Canadian rapper"
-  },
-  "0743b15a-3c32-48c8-ad58-cb325350befa": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1992-08-01",
-    "note": ""
-  },
-  "c8b1d8eb-074d-4b26-98ff-9622e3c304ac": {
-    "type": "solista",
-    "country": "DK",
-    "debut": "1958-11-05",
-    "note": ""
-  },
-  "878474ee-45b8-4f2b-94e2-cc372612d088": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": ""
-  },
-  "0a3386b0-9634-40bf-aab4-4999dcad0e6d": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1982",
-    "note": ""
-  },
-  "f6af669a-56ea-448a-a044-de76181ada33": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1990-04-22",
-    "note": "Machine Gun Kelly"
-  },
-  "ae002c5d-aac6-490b-a39a-30aa9e2edf2b": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1988-01-15",
-    "note": ""
-  },
-  "cd9f27b3-edc6-4092-9a96-020b00213bc6": {
-    "type": "solista",
-    "country": null,
-    "debut": null,
-    "note": ""
-  },
-  "871c27c9-2121-4eb9-a072-e36a0e367642": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1971-06-26",
-    "note": ""
-  },
-  "42ba45d2-4938-4bf5-9121-5caffc719c4d": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1975-07-18",
-    "note": ""
-  },
-  "c262b6bf-be56-4b26-bceb-42d7a27342f3": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1977-02-11",
-    "note": ""
-  },
-  "afac07f5-d4aa-43f4-bad3-6bc2bb474cba": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1944-06-21",
-    "note": "UK singer/songwriter, member of The Kinks"
-  },
-  "c8dbbadb-f5f1-449c-8827-43d00a73fe89": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1970-09-06",
-    "note": ""
-  },
-  "3fdd7979-0898-4687-adaf-895b178bceaa": {
-    "type": "solista",
-    "country": "GB",
-    "debut": null,
-    "note": ""
-  },
-  "4bdcee62-4902-4773-8cd1-e252e2e31225": {
-    "type": "solista",
-    "country": "CA",
-    "debut": "1974-06-01",
-    "note": ""
-  },
-  "b211c9bf-9009-47cb-bd00-95f7cdcb5931": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1989-06-06",
-    "note": "video game arrangement"
-  },
-  "f57f0728-95dc-4c57-8b14-045d8819a5d4": {
-    "type": "solista",
-    "country": "GB",
-    "debut": null,
-    "note": "Jonathan Ian Green"
-  },
-  "2f717eb4-847a-4d0d-82b4-edfd5d05558a": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": ""
-  },
-  "4dc5397b-d31a-4fe8-9905-e2cec352e3d2": {
-    "type": "solista",
-    "country": "ZA",
-    "debut": null,
-    "note": ""
-  },
-  "75167b8b-44e4-407b-9d35-effe87b223cf": {
-    "type": "solista",
-    "country": "CA",
-    "debut": "1945-11-12",
-    "note": "Canadian singer, songwriter & musician"
-  },
-  "05072650-4b05-4e8b-83d0-dba2576e306a": {
-    "type": "grupo",
-    "country": "AU",
-    "debut": "1976",
-    "note": "Australian rock band"
-  },
-  "c3aa624f-9b04-4414-b3f0-1f844d165440": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1960-05-18",
-    "note": ""
-  },
-  "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1981-10-28",
-    "note": ""
-  },
-  "8e68819d-71be-4e7d-b41d-f1df81b01d3f": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1975-07-06",
-    "note": ""
-  },
-  "8925a01a-8608-411d-a90b-f3a52d061208": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1987",
-    "note": ""
-  },
-  "75af3e29-3708-434a-b556-daec1df82d17": {
-    "type": "solista",
-    "country": "GB",
-    "debut": null,
-    "note": "member of Anti-Nowhere League"
-  },
-  "ac865b2e-bba8-4f5a-8756-dd40d5e39f46": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1993",
-    "note": "US nu metal band"
-  },
-  "1192f833-d3af-43bc-b961-35881d305e3a": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1969-01-06",
-    "note": "UK vocalist"
-  },
-  "123814ce-f7f7-44c9-b84d-0088b1e230a4": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1949-07-17",
-    "note": ""
-  },
-  "007acc91-08b9-45b1-ad00-3c47d30d5959": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": ""
-  },
-  "998e72ce-be35-4b5b-8309-499e033449dc": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": "rock guitarist from Detroit, MI"
-  },
   "e3e0abcd-7671-4482-a9d8-462f5acc9be5": {
     "type": "grupo",
     "country": "US",
     "debut": "1991",
     "note": "US alternative rock band"
-  },
-  "14cd65aa-899b-457c-9652-afffe5c3cbc4": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": ""
-  },
-  "2b9673bd-a61d-4b3e-a586-ec5053dd7cf7": {
-    "type": "grupo",
-    "country": "IE",
-    "debut": "1995",
-    "note": ""
-  },
-  "76ba95d5-1483-43fa-b142-16dee709b49c": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": ""
-  },
-  "80648aaa-e803-42b3-aa29-47cc2dfaf734": {
-    "type": "solista",
-    "country": "GB",
-    "debut": null,
-    "note": ""
-  },
-  "519774a4-3b18-4042-b8c0-927845a616c9": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1944-01-09",
-    "note": ""
-  },
-  "caeb044d-073c-4dfb-ad77-551a969c28c9": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1927-10-07",
-    "note": "British composer, arranger, conductor, and trumpeter"
-  },
-  "86034d1d-f66e-426d-ad52-ca5511a9b428": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1972-04-13",
-    "note": "lead vocalist for Staind"
-  },
-  "d07bca29-d980-4100-8cad-065a05f2b343": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1977-03-15",
-    "note": ""
-  },
-  "c1ec2f0f-4e8e-41e8-8f0b-c9e047a276a4": {
-    "type": "solista",
-    "country": "US",
-    "debut": null,
-    "note": "Brooklyn rapper John Simpson III"
-  },
-  "60fd91c9-d22c-4775-9ac6-7993fdf1c81d": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1979-06-28",
-    "note": "guitarist of Evanescence"
   },
   "e3ea6186-7523-48de-8437-bac91bc47829": {
     "type": "solista",
@@ -1205,172 +1487,16 @@
     "debut": "1945-12-24",
     "note": "“Lemmy” from Motörhead"
   },
-  "67fd5116-7a49-4abf-a34f-b08774128a7a": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1993-07-26",
-    "note": ""
-  },
-  "2f2164a8-f50c-48d9-8aa7-81e1c1cb2fd4": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1974-11-09",
-    "note": ""
-  },
-  "164f0d73-1234-4e2c-8743-d77bf2191051": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1977-06-08",
-    "note": "formerly Kanye West"
-  },
-  "4df5d35b-a9d4-4d4f-91f6-bae55693de31": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1996",
-    "note": ""
-  },
-  "dda04dd2-d815-4516-a640-949848f90d6e": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1986-11-20",
-    "note": ""
-  },
-  "c8975bbf-2778-47ae-accf-c584e644450d": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1977-02-08",
-    "note": ""
-  },
-  "d530dad4-81e5-4874-808a-d708039289fb": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1965-10-30",
-    "note": ""
-  },
-  "08b24fae-6114-4af4-a10f-054e09ffc5b9": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1986-04-24",
-    "note": ""
-  },
-  "8aa5b65a-5b3c-4029-92bf-47a544356934": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1948-12-03",
-    "note": ""
-  },
-  "15d2ba47-d023-43da-808a-ceeb671bf8a5": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1976-10-24",
-    "note": ""
-  },
-  "c7b39e08-b1aa-44fc-80fa-40724b24a48a": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1973-04-11",
-    "note": ""
-  },
-  "56c4b861-0922-4c3a-a9b9-3bfcb00f8274": {
-    "type": "solista",
-    "country": "DE",
-    "debut": "1989-09-02",
-    "note": "Russian‐German producer"
-  },
-  "a39acc4a-985e-4173-a9ed-f325f2d3bc1c": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1977-11-30",
-    "note": ""
-  },
-  "2831a6fb-851e-4ee7-97f5-aaa46a4f6e2f": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1978-07-02",
-    "note": ""
-  },
-  "9bb0ae46-c22c-499f-915f-9b4fc8d4f767": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1989",
-    "note": ""
-  },
-  "3b02795b-bd2c-4aac-8f6c-e581514cc2d8": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1996",
-    "note": "US hip-hop duo"
-  },
-  "43e1570a-1a0d-479f-9c95-fba971aec91a": {
-    "type": "solista",
-    "country": "CN",
-    "debut": "1982-06-14",
-    "note": "Chinese pianist"
-  },
-  "d3dd86df-2f57-4a97-8100-d09915343f60": {
-    "type": "grupo",
-    "country": "GB",
-    "debut": "1976",
-    "note": "UK heavy metal band"
-  },
-  "e68f2984-b0e9-42d7-b132-9570b7c75e29": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1974-04-22",
-    "note": ""
-  },
-  "52b9e109-44a0-45eb-a197-226c4abab232": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1994",
-    "note": ""
-  },
-  "0295a34c-96ca-40d9-bdd1-6827c4a7c6d1": {
-    "type": "grupo",
-    "country": null,
-    "debut": null,
-    "note": "Heartfelt with Robby East"
-  },
-  "deebc49a-6e06-418e-860f-8c7f770a8bac": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1911",
-    "note": ""
-  },
-  "0a8b5299-6bee-4fe0-8b1d-6ed528db0b24": {
-    "type": "solista",
-    "country": "JP",
-    "debut": "1988-04-17",
-    "note": "lead singer of ONE OK ROCK"
-  },
-  "7a77627e-78f3-489f-827a-7caea3342bba": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1962-02-10",
-    "note": ""
-  },
-  "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1995",
-    "note": ""
-  },
   "e3ef0463-fa4c-448a-b396-1f3d47ddb639": {
     "type": "solista",
     "country": "GB",
     "debut": null,
     "note": ""
   },
-  "28224c00-f987-46f5-809c-01a5df443034": {
+  "e408bb43-34fd-4737-8312-c31e3155a634": {
     "type": "solista",
     "country": "US",
-    "debut": null,
-    "note": ""
-  },
-  "028e1863-cab4-4a3d-9dd9-91c682c91005": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "2001",
+    "debut": "1963-06-20",
     "note": ""
   },
   "e471b63c-c3b5-4f62-a971-cd0b2273838f": {
@@ -1379,35 +1505,35 @@
     "debut": "1967-08-21",
     "note": ""
   },
-  "adfa9d07-123c-4dc8-b1bb-99282b166b60": {
+  "e491fae8-3a5a-438e-8368-925753fb41a1": {
     "type": "solista",
     "country": "US",
-    "debut": "1971-01-18",
-    "note": "vocalist for Korn"
+    "debut": "1948-12-13",
+    "note": ""
   },
-  "9878be28-66b3-47f9-a019-baf1b32876ff": {
+  "e61400d1-9434-4abc-ac7a-4f1dad60cfc7": {
     "type": "solista",
     "country": "US",
-    "debut": "1984-04-05",
+    "debut": "1973-06-20",
     "note": ""
   },
-  "2d4a1dd1-2cd8-4553-bf0b-74b8c9179633": {
+  "e68f2984-b0e9-42d7-b132-9570b7c75e29": {
     "type": "solista",
     "country": "US",
-    "debut": "1977-12-01",
+    "debut": "1974-04-22",
     "note": ""
   },
-  "253bfe58-d68a-4f96-9b7a-70d977cbf66d": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1990",
-    "note": "US producer duo Chad Hugo & Pharrell Williams"
-  },
-  "b7a15023-91c9-4157-acad-f6a2d04132ad": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1982",
+  "e91466e9-e518-4b02-9198-a6c338694c9d": {
+    "type": "solista",
+    "country": "GB",
+    "debut": "1974-06-30",
     "note": ""
+  },
+  "ea05652d-fe86-479e-9225-8d3b540902b6": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1979-04-27",
+    "note": "bass guitarist"
   },
   "eace2373-31c8-4aba-9a5c-7bce22dd140a": {
     "type": "grupo",
@@ -1415,167 +1541,29 @@
     "debut": "1995-04",
     "note": "Dutch symphonic metal band"
   },
-  "82cbe859-5255-4bbd-bda3-7610a3f857dc": {
+  "ebc723f0-afc5-40d2-9154-e22216f9d66e": {
     "type": "solista",
-    "country": "US",
-    "debut": "1997-01-28",
-    "note": "pop-punk singer"
-  },
-  "abbbef3b-19d7-4ef8-9ef2-e4d2c556509c": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1987",
-    "note": "a cappella gospel sextet"
-  },
-  "9d1ebcfe-4c15-4d18-95d3-d919898638a1": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1942-03-02",
-    "note": ""
-  },
-  "fe23d988-bb4f-4878-9b87-f0c70981c0d9": {
-    "type": "solista",
-    "country": "US",
+    "country": "DK",
     "debut": null,
-    "note": ""
+    "note": "Lars Ulrich's drum technician"
   },
-  "17abcf70-f020-443b-b307-617b2f7d23c8": {
+  "ecaf3d24-eb84-4aaf-8372-12ee3b0f1350": {
     "type": "solista",
     "country": "US",
-    "debut": null,
+    "debut": "1970-11-29",
     "note": ""
   },
-  "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1983",
-    "note": ""
-  },
-  "35424b33-ae1d-4a35-9005-ba3583453466": {
+  "ed1c0daa-9cdb-4bd8-8f46-794ec0783544": {
     "type": "solista",
     "country": "US",
-    "debut": "1967-01-30",
-    "note": "producer, engineer and lead singer of Orgy"
+    "debut": "1970-07-15",
+    "note": ""
   },
-  "ef954679-5ee7-4016-acef-7ac71f2fa3d8": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1994",
-    "note": "Minneapolis hip hop duo Slug & Ant"
-  },
-  "e2190b35-1181-44f6-8587-4c04123a6f30": {
+  "ee6032a6-e286-4716-90d9-b9523720ade9": {
     "type": "solista",
     "country": "US",
-    "debut": "1963-12-26",
-    "note": ""
-  },
-  "bea235a0-db63-44b1-881e-264d25791f5a": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1982-02-18",
-    "note": ""
-  },
-  "10a9ff92-9637-4498-afea-7044b2ab0dc0": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1972-05-20",
-    "note": ""
-  },
-  "06cbaecf-fb0d-4fa3-aba4-b73e4876a480": {
-    "type": "solista",
-    "country": null,
-    "debut": "1967-12-19",
-    "note": ""
-  },
-  "58e71d3e-559a-40f0-88c1-0fa40c7a218f": {
-    "type": "solista",
-    "country": null,
-    "debut": "1974-01-26",
-    "note": ""
-  },
-  "4eff36b0-5945-4ec9-a661-d99d002c3cb2": {
-    "type": "solista",
-    "country": "US",
-    "debut": "2000",
-    "note": ""
-  },
-  "844b702c-75bb-43ec-af88-c252a7f8bfd1": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1961-04-09",
-    "note": ""
-  },
-  "b7ffd2af-418f-4be2-bdd1-22f8b48613da": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1988",
-    "note": ""
-  },
-  "53f7e21d-7f2d-4a63-8015-26d20ad48b6e": {
-    "type": "grupo",
-    "country": null,
-    "debut": null,
-    "note": ""
-  },
-  "422763c1-9762-4586-b2a4-0a6f54ed254e": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1977-02-15",
-    "note": ""
-  },
-  "c8dbc2ee-66f2-4fe6-8d7c-8b958bc97d99": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1970-10-09",
-    "note": "American score composer"
-  },
-  "db8fad3a-e131-47a1-8782-c2ee93708cdd": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1989-08-30",
-    "note": ""
-  },
-  "6b157116-6f1c-45d4-9364-302fd664a80e": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1985-02-21",
-    "note": ""
-  },
-  "14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17": {
-    "type": "solista",
-    "country": "GB",
-    "debut": "1944-06-24",
-    "note": "English rock guitarist"
-  },
-  "dd095e54-58a4-4a54-bf16-ab9b9e96b382": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1972-09-07",
-    "note": "US underground hip hop MC Sean Daley"
-  },
-  "3377f3bb-60fc-4403-aea9-7e800612e060": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1994-09-29",
-    "note": "US singer/songwriter Ashley Frangipane"
-  },
-  "14ecd19f-7121-4192-8549-e5056241a42f": {
-    "type": "solista",
-    "country": "US",
-    "debut": "1977-05-14",
-    "note": ""
-  },
-  "7527f6c2-d762-4b88-b5e2-9244f1e34c46": {
-    "type": "grupo",
-    "country": "US",
-    "debut": "1988",
-    "note": ""
-  },
-  "cd243535-5af3-41cf-a389-3c900707019f": {
-    "type": "solista",
-    "country": "IE",
-    "debut": "1947-12-04",
-    "note": ""
+    "debut": "1975-06-10",
+    "note": "American rapper"
   },
   "ef0a6439-01da-4f3b-a947-6154377ba37b": {
     "type": "solista",
@@ -1583,10 +1571,124 @@
     "debut": null,
     "note": "Diamond Head lead vocalist"
   },
-  "a4256437-7cad-40b7-a135-9767863c90cf": {
+  "ef954679-5ee7-4016-acef-7ac71f2fa3d8": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1994",
+    "note": "Minneapolis hip hop duo Slug & Ant"
+  },
+  "f0bec136-82e8-4fcb-8172-421d9c542d09": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1955-06-23",
+    "note": ""
+  },
+  "f1dd0051-5578-45a7-a733-03113626407f": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1979-01-20",
+    "note": ""
+  },
+  "f30deb9d-bdba-470d-9032-f30037cab664": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "2004",
+    "note": ""
+  },
+  "f3116d70-a23c-4dae-963c-a6332ad7a26f": {
     "type": "solista",
     "country": "US",
     "debut": null,
-    "note": "US bassist for Deftones & Quicksand"
+    "note": "hip hop. member of Zion I"
+  },
+  "f376828a-b438-4fda-bb2e-dcd5fbe81f83": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1958-09-22",
+    "note": ""
+  },
+  "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1995",
+    "note": ""
+  },
+  "f57f0728-95dc-4c57-8b14-045d8819a5d4": {
+    "type": "solista",
+    "country": "GB",
+    "debut": null,
+    "note": "Jonathan Ian Green"
+  },
+  "f59a5dac-939a-4f12-a35c-9a49676f6898": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "2011",
+    "note": ""
+  },
+  "f59c5520-5f46-4d2c-b2c4-822eabf53419": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1996",
+    "note": "American rock band"
+  },
+  "f5dfa020-ad69-41cd-b3d4-fd7af0414e94": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1987-09-08",
+    "note": "US rapper"
+  },
+  "f6580b26-77f7-4a7b-8513-6db0476e8f21": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1951-06-09",
+    "note": "American score composer"
+  },
+  "f6af669a-56ea-448a-a044-de76181ada33": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1990-04-22",
+    "note": "Machine Gun Kelly"
+  },
+  "f82bcf78-5b69-4622-a5ef-73800768d9ac": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1969-12-04",
+    "note": "US rapper"
+  },
+  "f89c1c00-fdcb-4ccb-bd8d-f9c642b27ee3": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1973-07-15",
+    "note": ""
+  },
+  "fa5f1642-48ad-4337-9bcf-21a1c47af406": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1973-03-10",
+    "note": ""
+  },
+  "fbd2a255-1d57-4d31-ac11-65b671c19958": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "1986-12",
+    "note": "American rock band"
+  },
+  "fe23d988-bb4f-4878-9b87-f0c70981c0d9": {
+    "type": "solista",
+    "country": "US",
+    "debut": null,
+    "note": ""
+  },
+  "ff0a489b-7e25-48de-a879-169db7b936df": {
+    "type": "solista",
+    "country": "US",
+    "debut": "1981-07-31",
+    "note": ""
+  },
+  "ffafc8e1-1190-4b9e-a406-203f70e2ec11": {
+    "type": "grupo",
+    "country": "US",
+    "debut": "2009",
+    "note": ""
   }
 }
