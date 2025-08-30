@@ -1,62 +1,117 @@
-# Red de Colaboraciones Musicales
+# Music Collaboration Network (MusicBrainz)
 
-Este proyecto extrae datos de la API de MusicBrainz para analizar y visualizar las redes de colaboración de Linkin Park y artistas afines.
+This project extracts data from the [MusicBrainz API](https://musicbrainz.org/doc/MusicBrainz_API) to **analyze and visualize collaboration networks** among six seed bands:
+
+- Linkin Park  
+- Evanescence  
+- Metallica  
+- Deftones  
+- System of a Down  
+- Avenged Sevenfold  
+
+The pipeline builds a network of collaborations, enriching it with metadata (band members, type, country, debut year, etc.) and provides both static and interactive visualizations.
 
 ---
 
-## Instalación
+## Requirements
 
-1. Clona el repositorio:
-   $ git clone https://github.com/tu-usuario/tu-repo.git
-   $ cd tu-repo
-2. (Opcional) Crea un entorno virtual:
-   $ py -3 -m venv venv
+- Python **3.10+**
+- Internet connection (MusicBrainz API enforces a polite rate-limit of ~1 request/second)
+- See `requirements.txt` for full dependency list:
+  - `requests`
+  - `networkx`
+  - `matplotlib`
+  - `pyvis`
+
+---
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+2. (Optional) Create and activate a virtual environment:
    # Windows
-   $ venv\Scripts\activate
+   py -3 -m venv venv
+   venv\Scripts\activate
+
    # macOS/Linux
-   $ source venv/bin/activate
-3. Instala las dependencias:
-   $ py -3 -m pip install -r requirements.txt
+   python3 -m venv venv
+   source venv/bin/activate
+
+3. Install the dependencies:
+   pip install -r requirements.txt
+
 
 ---
 
-## Uso
+## Usage
 
-1. Abre el notebook PEC4.ipynb en Jupyter o VS Code Interactive.  
-2. Ejecuta las celdas de Paso 1 a Paso 4 para extraer, modelar y filtrar el grafo.  
-3. Ejecuta Paso 5.1 para generar el gráfico estático en results/network.png.  
-4. Ejecuta Paso 5.2 para generar el HTML interactivo en results/network.html.  
-5. Abre results/network.html en tu navegador o con Live Server en VS Code para explorar.
+Open the notebook MusicBrainz-Collab-Network.ipynb in Jupyter or VS Code.
+
+Run the steps sequentially:
+
+1. Fetch MBIDs for the seed artists.
+2. Download recordings and artist credits.
+3. Build the full collaboration graph with band members and collaborators.
+4. Filter and analyze the graph (weak ties, degree distribution, connectivity).
+5.1. Generate a static graph (results/static_network.png).
+5.2 → Generate an interactive HTML (results/network.html).
+
+Explore results:
+- Open results/static_network.png for the static view.
+- Open results/network.html in your browser for the interactive network (PyVis).
 
 ---
 
-## Resultados
+## Results
 
-- Static:  
+- Static Visualization:  
   ![Static Network](results/network.png)  
-- Interactivo:  
-  Abre results/network.html en tu navegador.
+- Interactivo Visualization:  
+  Open results/network.html in your browser.
+  Tooltips include metadata (type, role, country, debut, notes, collaborations).
+  Physics and interaction controls allow free exploration of the graph.
 
 ---
 
-## Estructura del proyecto
+## Project Structure
 
-    /data           # Datos brutos descargados (opcional)
-    /results        # Salidas: network.png, network.html
-    PEC4.ipynb      # Notebook principal
-    requirements.txt
-    README.md
+   /data
+   ├─ artist_mbids.json        # MBIDs of the seed artists
+   ├─ recordings.json          # All recordings + credits
+   └─ artist_metadata.json     # Enriched metadata (type, debut, etc.)
+
+   /results
+   ├─ static_network.png       # Static visualization (Matplotlib)
+   └─ network.html             # Interactive visualization (PyVis)
+
+   MusicBrainz-Collab-Network.ipynb  # Main notebook
+   requirements.txt
+   README.md
 
 ---
 
-## Extensiones posibles
+## Disclaimer
 
-- Filtrado dinámico por peso de arista (slider).  
-- Animación temporal según fechas de colaboración.  
-- Mini-mapa para navegar grafos muy grandes.
+   This project uses the MusicBrainz API: https://musicbrainz.org/doc/MusicBrainz_API.
+   Data is provided under the CC-BY-SA 4.0 License: https://creativecommons.org/licenses/by-sa/4.0/.
+
+   Please respect the MusicBrainz rate-limit (https://musicbrainz.org/doc/MusicBrainz_API/Rate_Limiting) guidelines when running this notebook.
 
 ---
 
-## Licencia
+## Extensions / Roadmap
 
-Licencia MIT © 2025 Albert Matarín Luque  
+- Dynamic edge-weight filtering (interactive slider).
+- Timeline animation of collaborations over the years.
+- Mini-map for easier navigation in dense graphs.
+- Clustering and community detection for automatic grouping.
+- Export filtered subgraphs as JSON/CSV for external analysis.
+- Advanced metrics (betweenness, closeness, clustering coefficient) in tooltips.
+---
+
+## License
+
+MIT License © 2025 Albert Matarín Luque 
