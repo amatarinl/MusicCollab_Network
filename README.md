@@ -56,8 +56,9 @@ Run the steps sequentially:
 2. Download recordings and artist credits.
 3. Build the full collaboration graph with band members and collaborators.
 4. Filter and analyze the graph (weak ties, degree distribution, connectivity).
-5.1. Generate a static graph (results/static_network.png).
-5.2 → Generate an interactive HTML (results/network.html).
+5. Static and Interactive Visualization
+   1. Generate a static graph (results/static_network.png).
+   2. Generate an interactive HTML (results/network.html).
 
 Explore results:
 - Open results/static_network.png for the static view.
