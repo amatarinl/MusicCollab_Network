@@ -71,9 +71,9 @@ Explore results:
 - Static Visualization:  
   ![Static Network](results/network.png)  
 - Interactivo Visualization:  
-  Open results/network.html in your browser.
-  Tooltips include metadata (type, role, country, debut, notes, collaborations).
-  Physics and interaction controls allow free exploration of the graph.
+  - Open results/network.html in your browser.
+  - Tooltips include metadata (type, role, country, debut, notes, collaborations).
+  - Physics and interaction controls allow free exploration of the graph.
 
 ---
 
