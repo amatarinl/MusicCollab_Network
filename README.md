@@ -79,19 +79,19 @@ Explore results:
 
 ## Project Structure
 
-   ```text
-   /data
-   ├── artist_mbids.json     # MBIDs of the seed artists
-   ├── recordings.json       # All recordings + credits
-   └── artist_metadata.json  # Enriched metadata (type, debut, etc.)
+**/data**  
+- `artist_mbids.json` → MBIDs of the seed artists  
+- `recordings.json` → All recordings + credits  
+- `artist_metadata.json` → Enriched metadata (type, debut, etc.)  
 
-   /results
-   ├── static_network.png    # Static visualization (Matplotlib)
-   └── network.html          # Interactive visualization (PyVis)
+**/results**  
+- `static_network.png` → Static visualization (Matplotlib)  
+- `network.html` → Interactive visualization (PyVis)  
 
-   MusicBrainz-Collab-Network.ipynb  # Main notebook
-   requirements.txt                  # Dependencies
-   README.md                         # Project documentation
+**Other files**  
+- `MusicBrainz-Collab-Network.ipynb` → Main notebook  
+- `requirements.txt` → Dependencies  
+- `README.md` → Project documentation  
 
 ---
 
