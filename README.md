@@ -79,25 +79,26 @@ Explore results:
 
 ## Project Structure
 
+   ```text
    /data
-   ├─ artist_mbids.json     # MBIDs of the seed artists
-   ├─ recordings.json       # All recordings + credits
-   └─ artist_metadata.json  # Enriched metadata (type, debut, etc.)
+   ├── artist_mbids.json     # MBIDs of the seed artists
+   ├── recordings.json       # All recordings + credits
+   └── artist_metadata.json  # Enriched metadata (type, debut, etc.)
 
    /results
-   ├─ static_network.png    # Static visualization (Matplotlib)
-   └─ network.html          # Interactive visualization (PyVis)
+   ├── static_network.png    # Static visualization (Matplotlib)
+   └── network.html          # Interactive visualization (PyVis)
 
-   MusicBrainz-Collab-Network.ipynb   # Main notebook
-   requirements.txt                   # Dependencies
-   README.md                          # Project documentation
-
+   MusicBrainz-Collab-Network.ipynb  # Main notebook
+   requirements.txt                  # Dependencies
+   README.md                         # Project documentation
 
 ---
 
 ## Disclaimer
 
    This project uses the MusicBrainz API: https://musicbrainz.org/doc/MusicBrainz_API.
+
    Data is provided under the CC-BY-SA 4.0 License: https://creativecommons.org/licenses/by-sa/4.0/.
 
    Please respect the MusicBrainz rate-limit (https://musicbrainz.org/doc/MusicBrainz_API/Rate_Limiting) guidelines when running this notebook.
