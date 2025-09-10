@@ -69,7 +69,7 @@ Explore results:
 ## Results
 
 - Static Visualization:  
-  ![Static Network](results/network.png)  
+  ![Static Network](results/static_network.png)  
 - Interactivo Visualization:  
   - Open results/network.html in your browser.
   - Tooltips include metadata (type, role, country, debut, notes, collaborations).
@@ -80,17 +80,18 @@ Explore results:
 ## Project Structure
 
    /data
-   ├─ artist_mbids.json        # MBIDs of the seed artists
-   ├─ recordings.json          # All recordings + credits
-   └─ artist_metadata.json     # Enriched metadata (type, debut, etc.)
+   ├─ artist_mbids.json     # MBIDs of the seed artists
+   ├─ recordings.json       # All recordings + credits
+   └─ artist_metadata.json  # Enriched metadata (type, debut, etc.)
 
    /results
-   ├─ static_network.png       # Static visualization (Matplotlib)
-   └─ network.html             # Interactive visualization (PyVis)
+   ├─ static_network.png    # Static visualization (Matplotlib)
+   └─ network.html          # Interactive visualization (PyVis)
 
-   MusicBrainz-Collab-Network.ipynb  # Main notebook
-   requirements.txt
-   README.md
+   MusicBrainz-Collab-Network.ipynb   # Main notebook
+   requirements.txt                   # Dependencies
+   README.md                          # Project documentation
+
 
 ---
 
