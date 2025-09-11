@@ -44,6 +44,7 @@ The pipeline builds a network of collaborations, enriching it with metadata (ban
    source venv/bin/activate
 
 3. Install the dependencies:
+   ```bash
    pip install -r requirements.txt
 
 
