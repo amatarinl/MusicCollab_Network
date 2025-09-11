@@ -33,10 +33,13 @@ The pipeline builds a network of collaborations, enriching it with metadata (ban
    cd your-repo
 2. (Optional) Create and activate a virtual environment:
    # Windows
+   ```bash
    py -3 -m venv venv
    venv\Scripts\activate
+   ```
 
    # macOS/Linux
+   ```bash
    python3 -m venv venv
    source venv/bin/activate
 
